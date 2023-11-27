@@ -1,6 +1,8 @@
-# BY: MATHIYAZHAGAN DHANAPAL
-# Registration no: 23013685
-# Experiment--02-Implementation-of-combinational-logic
+```
+BY: MATHIYAZHAGAN DHANAPAL
+Registration no: 23013685
+```
+# Experiment--02-Implementation of combinational logic
 Implementation of combinational logic gates
  
 ## AIM:
@@ -43,26 +45,26 @@ Quartus prime
    - Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
    - Give the Input Combinations according to the Truth Table amd then simulate the Output waveform
 
-## Program:
+# Program:
 ![DEEX02-3](https://github.com/MathiyazhaganDhanapal/Experiment--02-Implementation-of-combinational-logic-/assets/145981115/e111d8cc-82fa-4460-9680-759183f154fa)
 
 
 
-## RTL realization
+# RTL realization
 
 ![DE 4](https://github.com/MathiyazhaganDhanapal/Experiment--02-Implementation-of-combinational-logic-/assets/145981115/1d418654-fe93-461d-9519-d30581eda41b)
 
 
-## Truth Table
+# Truth Table
 
 ![DEEX2-1](https://github.com/MathiyazhaganDhanapal/Experiment--02-Implementation-of-combinational-logic-/assets/145981115/b572890e-6706-4f01-8207-f4bf4c67bfbb)
 
 
 
-## Output:
+# Output:
 ![DEEX2-2](https://github.com/MathiyazhaganDhanapal/Experiment--02-Implementation-of-combinational-logic-/assets/145981115/9976c613-62fa-4b1c-b666-9bc5bbe6bbfc)
 
 
 
-## Result:
+# Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
