@@ -22,7 +22,8 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Procedure
 ## Program:
 
-![Screenshot 2023-12-18 160051](https://github.com/sarishvarshan/Experiment--02-Implementation-of-combinational-logic-/assets/152167665/6d0c2467-7bfd-4d30-b080-70937b76f307)
+![Screenshot 2023-12-18 161919](https://github.com/sarishvarshan/Experiment--02-Implementation-of-combinational-logic-/assets/152167665/4a5a33ee-5685-4ba0-a80c-64f02cbdd3eb)
+
 
 ## Timing Diagram:
 ![Screenshot 2023-12-18 160122](https://github.com/sarishvarshan/Experiment--02-Implementation-of-combinational-logic-/assets/152167665/b08d18ea-2653-454f-a1bb-bfab28f41439)
