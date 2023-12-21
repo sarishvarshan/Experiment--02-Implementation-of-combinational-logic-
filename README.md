@@ -1,8 +1,7 @@
-```
-BY: D.Mathiyazhagan
-Registration no: 23013685
-```
-# Experiment--02-Implementation of combinational logic
+### Name : D.Mathiyazhagan
+### Registration no: 23013685
+
+## Experiment--02-Implementation of combinational logic
 Implementation of combinational logic gates
  
 ## AIM:
@@ -20,7 +19,8 @@ Quartus prime
 ## Theory
  A combinational circuit is a circuit in which the output depends on the present combination of inputs. Combinational circuits are made up of logic gates. The output of each logic gate is determined by its logic function. Combinational circuits can be made using various logic gates, such as AND gates, OR gates, and NOT gate.
 
-## Procedure
+## Procedure:
+~~~
 1. Create a New Project:
    - Open Quartus and create a new project by selecting "File" > "New Project Wizard."
    - Follow the wizard's instructions to set up your project, including specifying the project name, location, and target device (FPGA).
@@ -44,7 +44,7 @@ Quartus prime
    - Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF".
    - Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
    - Give the Input Combinations according to the Truth Table amd then simulate the Output waveform
-
+~~~
 # Program:
 ![DEEX02-3](https://github.com/MathiyazhaganDhanapal/Experiment--02-Implementation-of-combinational-logic-/assets/145981115/e111d8cc-82fa-4460-9680-759183f154fa)
 
